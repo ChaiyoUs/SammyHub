@@ -1,0 +1,1 @@
+_G.VERSIONHACK = 0.1
